@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.btn {
+  height: 30px;
+}
+
+.userMessage {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.historyWrapper {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
